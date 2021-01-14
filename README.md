@@ -1,3 +1,5 @@
+Just a quick test of plotly in React.
+
 https://thomashoddinott.github.io/react-plotly-covid-cases-example/
 
 # Getting Started with Create React App
